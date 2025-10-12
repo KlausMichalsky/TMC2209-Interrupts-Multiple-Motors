@@ -1,5 +1,5 @@
 /*
-TMC2209_Linear Speed Interrupt Multiple Mottors Coordinated
+TMC2209_Linear Speed Interrupt Multiple Mottors
 Klaus Michalsky
 */
 
